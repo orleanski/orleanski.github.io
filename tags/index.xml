@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Orleanski&#39;s blog</title>
+    <link>https://orleanski.github.io/tags/</link>
+    <description>Recent content in Tags on Orleanski&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 18:39:12 -1100</lastBuildDate><atom:link href="https://orleanski.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bio</title>
+      <link>https://orleanski.github.io/tags/bio/</link>
+      <pubDate>Sat, 13 Mar 2021 18:39:12 -1100</pubDate>
+      
+      <guid>https://orleanski.github.io/tags/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://orleanski.github.io/tags/text/</link>
+      <pubDate>Wed, 10 Mar 2021 18:15:33 -1100</pubDate>
+      
+      <guid>https://orleanski.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
